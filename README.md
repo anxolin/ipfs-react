@@ -14,3 +14,6 @@ ipfs add -r .
 
 Get the hash of the root, and visit `http://localhost:8080/ipns/<app-dir-hash>`:
 * [http://localhost:8080/ipns/QmXc7Q9jToiJ63orxV9sWVQLkweWBH6EPCDiuoHT2Nyb9f](http://localhost:8080/ipns/QmXc7Q9jToiJ63orxV9sWVQLkweWBH6EPCDiuoHT2Nyb9f)
+* [https://gateway.ipfs.io/ipfs/QmXc7Q9jToiJ63orxV9sWVQLkweWBH6EPCDiuoHT2Nyb9f/](https://gateway.ipfs.io/ipfs/QmXc7Q9jToiJ63orxV9sWVQLkweWBH6EPCDiuoHT2Nyb9f/)
+* [https://ipfs.io/ipfs/QmXc7Q9jToiJ63orxV9sWVQLkweWBH6EPCDiuoHT2Nyb9f/](https://ipfs.io/ipfs/QmXc7Q9jToiJ63orxV9sWVQLkweWBH6EPCDiuoHT2Nyb9f/)
+* [https://ipfs.infura.io/ipfs/QmXc7Q9jToiJ63orxV9sWVQLkweWBH6EPCDiuoHT2Nyb9f/](https://ipfs.infura.io/ipfs/QmXc7Q9jToiJ63orxV9sWVQLkweWBH6EPCDiuoHT2Nyb9f/)
